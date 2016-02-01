@@ -22,6 +22,7 @@ Instructions
 2. Unzip the data set into working directory. Folder named UCI HAR Dataset will be created.
 
 3. Load RStudio and run the R script named run_analysis.R. This R script fulfills the following requirements:
+
 	1) Merges the training and the test sets to create one data set.
 
 	2) Extracts only the measurements on the mean and standard deviation for each measurement.
