@@ -1,6 +1,3 @@
-# GettingAndCleaningData
-Coursera Course: Getting and Cleaning Data
-
 # Getting and Cleaning Data Project
 
 A full description of the data:
