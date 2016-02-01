@@ -18,9 +18,6 @@ This assignment includes the following files:
 
 - 'run_analyis.R': R code scripts that was run on the data set.
 
-- 'tidy.txt': complete data set created from run_analysis.R.
-
-
 Instructions
 
 1. Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
