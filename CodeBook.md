@@ -25,6 +25,9 @@ A full description is available at the site where the data was obtained: http://
 
 Variables
 ---------
+
+Variables from the Tidy data set are listed. Variable acronyms are cleaned to be descriptive. X,Y,Z refers to directional indicators from a 3-axial signaler within a smartphone, which captured linear acceleration and angular velocity at a constant rate of 50Hz. Sensor signals which are accelerometer and gyroscope were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
+
  - Subject
  - Activity
  - TimeBodyAccelerometerMean-X
